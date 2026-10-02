@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushks27/coding/tree/master/1584-min-cost-to-connect-all-points) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/ayushks27/coding/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/ayushks27/coding/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
