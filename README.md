@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/ayushks27/coding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushks27/coding/tree/master/0115-distinct-subsequences) |
+| [0647-palindromic-substrings](https://github.com/ayushks27/coding/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/ayushks27/coding/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/ayushks27/coding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushks27/coding/tree/master/0115-distinct-subsequences) |
+| [0647-palindromic-substrings](https://github.com/ayushks27/coding/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/ayushks27/coding/tree/master/0856-score-of-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/ayushks27/coding/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
