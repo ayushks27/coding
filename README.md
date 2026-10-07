@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushks27/coding/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/ayushks27/coding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushks27/coding/tree/master/0115-distinct-subsequences) |
 | [0647-palindromic-substrings](https://github.com/ayushks27/coding/tree/master/0647-palindromic-substrings) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushks27/coding/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/ayushks27/coding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushks27/coding/tree/master/0115-distinct-subsequences) |
 | [0647-palindromic-substrings](https://github.com/ayushks27/coding/tree/master/0647-palindromic-substrings) |
@@ -58,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushks27/coding/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/ayushks27/coding/tree/master/0647-palindromic-substrings) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushks27/coding/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
