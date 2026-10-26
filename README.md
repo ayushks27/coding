@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushks27/coding/tree/master/0001-two-sum) |
+| [0063-unique-paths-ii](https://github.com/ayushks27/coding/tree/master/0063-unique-paths-ii) |
 | [0853-car-fleet](https://github.com/ayushks27/coding/tree/master/0853-car-fleet) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushks27/coding/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushks27/coding/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/ayushks27/coding/tree/master/0044-wildcard-matching) |
+| [0063-unique-paths-ii](https://github.com/ayushks27/coding/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/ayushks27/coding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushks27/coding/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushks27/coding/tree/master/0516-longest-palindromic-subsequence) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayushks27/coding/tree/master/0044-wildcard-matching) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/ayushks27/coding/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
