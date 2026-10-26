@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushks27/coding/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/ayushks27/coding/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ayushks27/coding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushks27/coding/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushks27/coding/tree/master/0516-longest-palindromic-subsequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushks27/coding/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/ayushks27/coding/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ayushks27/coding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayushks27/coding/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushks27/coding/tree/master/0516-longest-palindromic-subsequence) |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/ayushks27/coding/tree/master/0853-car-fleet) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ayushks27/coding/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ayushks27/coding/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
